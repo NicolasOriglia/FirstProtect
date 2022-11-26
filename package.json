@@ -1,0 +1,17 @@
+{
+  "name": "hola-mundo",
+  "version": "1.0.0",
+  "description": "este es mi primer proyecto de javascript con node en open bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "saludo":"Hola, este es mi primer ejercicio con Node en el mejor Bootcamp de programación del mundo",
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "holamundo",
+    "firstProyect"
+  ],
+  "author": "Nicolas Origlia",
+  "license": "ISC"
+}
